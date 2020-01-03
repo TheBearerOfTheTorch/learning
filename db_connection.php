@@ -8,7 +8,7 @@
     DEFINE('DB_USER','root');
 
     /**
-     * this is the changes im making to this file
+     * this is the changes im making to this file just checking f this upto date
      */
     DEFINE('USER' ,'andreas');
 
