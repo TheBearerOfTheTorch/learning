@@ -51,5 +51,8 @@
             else{
                 echo 'an error occured while trying to register your details with our database';
             }
+
+            //hey im inside the file and trying to do some changes here as welll and please just 
+            //see the things im trying so hard to do. you can also help in any way you see fit.
         }
     }
