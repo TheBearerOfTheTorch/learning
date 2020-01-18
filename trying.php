@@ -9,5 +9,9 @@ $server = $_SERVER['SERVER_SOFTWARE'];
 //outputting the datials
 echo $file,'<br>',$user,' <br>',$server;
 
+//this is me trying to change  some few staffs on the main page 
+//and this is what im adding on no much deal just some comments
+
+
 
 

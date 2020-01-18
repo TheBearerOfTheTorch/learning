@@ -23,12 +23,12 @@
             $trimmed_email = trim($email);
             $trimmed_password = trim($password);
 
+            //changing almnost everything to see hw they would affect on the long run.
+            //so sit down relax and take you calory popcona while we tell you the tale of a wondering 
+            //hero who has yet to enter his own story
+
             //getting the connection
             require_once('db_connection.php');
-
-            //cleaning the details to secure input to insure safety needed when you have things to send to the database
-            // $cleaned_email = mysqli_real_escape_string($dbc,$trimmed_email);
-            // $cleaned_password = mysqli_real_escape_string($dbc,$trimmed_password);
 
             //making the query
             $query = "SELECT * FROM users";
